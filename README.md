@@ -1,3 +1,4 @@
 # TCM_EMR_text_mining_lung
-Full name: Software of text minging for information on traditional Chinese medicine syndromes of repiratory diseases  
+Full name: Software of text minging for information on traditional Chinese medicine syndromes of repiratory diseases
+
 This was python progrom for management of traditional Chinese medicine electronic medical records for respiratory diseases, and text mining on the electronic medical records. This program was used for extracting four traditional Chinese medicine information on signs and syndromes from multi-sources medicine electronic medical records, and analysis them to extracting traditional Chinese medicine syndrome factors and complete Chinese word segmentation process. This python program was based on our provious platforms - medical big data platform (https://github.com/zihuitang/medical_bigdata_platform) and medical artificial intelligence application platform (https://github.com/zihuitang/medical_AI_platform).
